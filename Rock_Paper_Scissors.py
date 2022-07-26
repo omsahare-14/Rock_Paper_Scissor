@@ -1,6 +1,3 @@
-
-#  Day 4: Rock, Paper, Scissors
-
 import random as ran
 
 rock = '''
